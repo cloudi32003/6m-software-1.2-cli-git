@@ -1,24 +1,33 @@
 #react {
-    color: rgb(35, 13, 233);
-    font-weight: bold;
+  color: rgb(35, 13, 233);
+  font-weight: bold;
 }
 
 #github {
-    flex: 2;
-    color: #f3bd0a;
-    font-weight: bold;
+  flex: 2;
+  color: #f3bd0a;
+  font-weight: bold;
 }
 
 .avatar {
-    width: 380px;
-    height: 370px;
+  width: 380px;
+  height: 370px;
 }
 
 h2 {
-    font-size: 17;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 h1 {
-    font-size: 37;
-    font-weight: 700;
+  font-size: 37;
+  font-weight: 700;
+}
+fa-de {
+  content: "SINGAPORE FLAG";
+  background-image: url("singapore.png");
+  width: 16px;
+  height: 12px;
+  display: inline-block;
+  background-position: center;
+  background-size: cover;
 }
